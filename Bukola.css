@@ -1,0 +1,111 @@
+div{
+    padding: 3rem;
+}
+.box{
+    padding: 4rem;
+    margin: 3rem;
+    display: flex;
+}
+.first{
+    padding: 4rem;
+    margin: 4rem;
+}
+.second{
+    display: flex;
+    padding: 4rem;
+    margin: 4rem;
+
+}
+.C1{
+    background-color: red;
+    width: 300px; height: 300px;
+    padding: 3rem;
+    margin: 2rem;
+}
+.C2{
+    background-color: green;
+    width: 300px; height: 300px;
+    padding: 3rem;
+    margin: 2rem;
+}
+.C3{
+    background-color: blue;
+    width: 300px; height: 300px;
+    padding: 3rem;
+    margin: 2rem;
+}
+.C4{
+    background-color: yellow;
+    width: 300px; height: 300px;
+    padding: 3rem;
+    margin: 2rem;
+}
+.C5{
+    background-color: black;
+    width: 300px; height: 300px;
+    padding: 3rem;
+    margin: 2rem;
+}
+.C6{
+    background-color: purple;
+    width: 300px; height: 300px;
+    padding: 3rem;
+    margin: 2rem;
+}
+div{
+    padding: 3rem;
+}
+.box{
+    padding: 4rem;
+    margin: 3rem;
+    display: flex;
+}
+
+
+.first{
+    padding: 4rem;
+    margin: 4rem;
+    display: flex;
+    flex-direction: column;
+}
+.second{
+    display: flex;
+    padding: 4rem;
+    margin: 4rem;
+}
+.black.jpg{
+    background-color: aqua;
+    width: 300px; height: 300px;
+    padding: 3rem;
+    margin: 2rem;
+}
+.blue.jpg{
+    background-color: aqua;
+    width: 300px; height: 300px;
+    padding: 3rem;
+    margin: 2rem;
+}
+.green.jpg{
+    background-color: aqua;
+    width: 300px; height: 300px;
+    padding: 3rem;
+    margin: 2rem;
+}
+.lady.jpg{
+    background-color: aqua;
+    width: 300px; height: 300px;
+    padding: 3rem;
+    margin: 2rem;
+}
+.paris.jpg{
+    background-color: aqua;
+    width: 300px; height: 300px;
+    padding: 3rem;
+    margin: 2rem;
+}
+.white.jpg{
+    background-color: aqua;
+    width: 300px; height: 300px;
+    padding: 3rem;
+    margin: 2rem;
+}
